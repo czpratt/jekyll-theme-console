@@ -2,7 +2,7 @@
 
 ## description of czpratt modifications
 
-Modifying to enable different fonts
+v2 Modifying to enable different fonts
 
 A jekyll theme with inspiration from linux consoles for hackers, developers and script kiddies.
 

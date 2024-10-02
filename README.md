@@ -1,6 +1,8 @@
 # jekyll-theme-console
 
-Does this work???
+## description of czpratt modifications
+
+Modifying to enable different fonts
 
 A jekyll theme with inspiration from linux consoles for hackers, developers and script kiddies.
 
